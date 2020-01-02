@@ -18,6 +18,7 @@ These resources are great places for your students visit to learn more on their 
 - [**GitHub Learning Lab**](https://lab.github.com/)
 - [**Learn DVCS**](https://learndvcs.github.io/) - *A work in-progress*
 - [**Learn Git** on Lynda.com](https://www.linkedin.com/learning/github-for-web-designers/welcome?u=2109516) - *Good for command-line*. Sign on with your NAIT account for free access.
+- [**Markdown Tutorial**](https://www.markdowntutorial.com/)
 
 ----
 

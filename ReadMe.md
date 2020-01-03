@@ -27,3 +27,9 @@ These resources are great places for your students visit to learn more on their 
 - [x] Learn Lists in Markdown
 - [x] Learn images in Markdown
 - [x] Learn links in Markdown
+
+----
+
+## Appendix
+
+> You can read the [Overview](Overview.md) or take a look at the [slideshow presentation](VersionControl.html) of the overview.
